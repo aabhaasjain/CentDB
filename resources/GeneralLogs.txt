@@ -1,0 +1,5 @@
+User|Status|Log Message|TimeStamp
+user|Success|Successfully logged in!|Thu Dec 09 04:49:37 IST 2021
+user|Success|User entered use database query :use db|Thu Dec 09 04:49:47 IST 2021
+user|Success|User entered a valid query :use db|Thu Dec 09 04:49:47 IST 2021
+null|Success|User logged out!|Thu Dec 09 04:55:13 IST 2021

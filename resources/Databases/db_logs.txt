@@ -1,0 +1,6 @@
+User|Query type|Status|Database Name|Table Name|Column Affected|Row Affected|Condition|TimeStamp
+user|Success|Update|resources\Databases\db|t1|num|num=2|where name=tanvi|Wed Dec 08 08:48:08 IST 2021
+user|Success|Update|resources\Databases\db|t1|num|num=2|where name=tanvi|Wed Dec 08 08:48:08 IST 2021
+user|Success|Update|resources\Databases\db|t2|num|num=2|where name=tanvi|Wed Dec 08 08:48:08 IST 2021
+user|Failed|Update|resources\Databases\db|t2|num|num=2|where name=tanvi|Wed Dec 08 08:48:08 IST 2021
+user1|Failed|Update|resources\Databases\db|t2|num|num=2|where name=tanvi|Wed Dec 08 08:48:08 IST 2021

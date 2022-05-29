@@ -1,0 +1,4 @@
+PersonID|LastName|FirstName
+1|Hansen|Ola|30
+2|Svendson|Tove|23
+3|Pettersen|Kari|20

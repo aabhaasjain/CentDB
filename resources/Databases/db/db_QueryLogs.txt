@@ -1,0 +1,8 @@
+User|Query type|Status|Database Name|Table Name|Column Affected|Row Affected|Condition|TimeStamp
+user|Success|Use|db||0|0|Database name set|Thu Dec 09 02:29:34 IST 2021
+User|Query type|Status|Database Name|Table Name|Column Affected|Row Affected|Condition|TimeStamp
+user|Success|Use|db||0|0|Database name set|Thu Dec 09 02:39:17 IST 2021
+User|Query type|Status|Database Name|Table Name|Column Affected|Row Affected|Condition|TimeStamp
+user|Success|Use|db||0|0|Database name set|Thu Dec 09 02:45:52 IST 2021
+User|Query type|Status|Database Name|Table Name|Column Affected|Row Affected|Condition|TimeStamp
+user|Success|Use|db||0|0|Database name set|Thu Dec 09 04:49:47 IST 2021

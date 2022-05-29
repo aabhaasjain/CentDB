@@ -1,0 +1,10 @@
+Table Name : t1
+num | int | primary_key
+name | text
+
+Table Name : t2
+numfk | int | Foreign_Key ------ Table: t1 column: num
+name | text
+
+
+The cardinality between t1 and t2 is One-To-One

@@ -1,0 +1,5 @@
+Table|person
+PersonID|int|primary key
+LastName|text|
+FirstName|text|
+Age|int|
